@@ -1588,7 +1588,7 @@ function CreateMenu(NewPosition) -- Create Menu
 	Menu:AddMenuInstance('TopBarTextBR', 'Text', {
 		Size 		= 18;
 		Position	= shared.MenuDrawingData.Instances.TopBarTwo.Position + V2New(BaseSize.X - 75, 25);
-		Text		= 'by ic3w0lf';
+		Text		= '';
 		Color		= Colors.Secondary.Light;
 		Visible		= true;
 		Transparency= 1;
